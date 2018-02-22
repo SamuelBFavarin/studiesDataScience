@@ -1,0 +1,4 @@
+valor1  valor2  valor3
+MISSING    456.4   456.2
+142     MISSING     456
+1.2     4.3     4.8
